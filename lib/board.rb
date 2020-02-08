@@ -1,3 +1,2 @@
-def board = 'array'
-puts board = " "," "," "," "," "," "," "," ","
-end
+board = Array
+Array = [" "," "," "," "," "," "," "," "," "]
