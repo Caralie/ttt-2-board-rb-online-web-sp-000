@@ -1,2 +1,5 @@
-board = "array"
-board = " ", " "," "," ", " "," "," "," ","
+def board = 'array'
+puts board = " "," "," "," "," "," "," "," ","
+end
+
+
